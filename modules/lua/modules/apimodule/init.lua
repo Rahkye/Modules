@@ -1,4 +1,4 @@
-print("[sv] API worked!")
+--[[MIT License Copyright (c) 2020 @rahkye]]
 
 API = {}
 API.player = FindMetaTable("Player")
