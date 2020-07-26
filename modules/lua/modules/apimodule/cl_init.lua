@@ -1,4 +1,4 @@
-print("[cl] API worked!")
+--[[MIT License Copyright (c) 2020 @rahkye]]
 
 
 API = {}
